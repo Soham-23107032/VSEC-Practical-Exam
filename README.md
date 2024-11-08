@@ -5,7 +5,7 @@
 
 ```
 
-git clone <my repo link>
+git clone https://github.com/Soham-23107032/VSEC-Practical-Exam.git
 
 
 ```
